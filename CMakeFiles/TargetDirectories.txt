@@ -1,0 +1,13 @@
+G:/VTM-4.0_wMLP7_7z/build/CMakeFiles/ALL_BUILD.dir
+G:/VTM-4.0_wMLP7_7z/build/CMakeFiles/ZERO_CHECK.dir
+G:/VTM-4.0_wMLP7_7z/build/source/Lib/CommonLib/CMakeFiles/CommonLib.dir
+G:/VTM-4.0_wMLP7_7z/build/source/Lib/CommonAnalyserLib/CMakeFiles/CommonAnalyserLib.dir
+G:/VTM-4.0_wMLP7_7z/build/source/Lib/DecoderAnalyserLib/CMakeFiles/DecoderAnalyserLib.dir
+G:/VTM-4.0_wMLP7_7z/build/source/Lib/DecoderLib/CMakeFiles/DecoderLib.dir
+G:/VTM-4.0_wMLP7_7z/build/source/Lib/EncoderLib/CMakeFiles/EncoderLib.dir
+G:/VTM-4.0_wMLP7_7z/build/source/Lib/Utilities/CMakeFiles/Utilities.dir
+G:/VTM-4.0_wMLP7_7z/build/source/App/DecoderAnalyserApp/CMakeFiles/DecoderAnalyserApp.dir
+G:/VTM-4.0_wMLP7_7z/build/source/App/DecoderApp/CMakeFiles/DecoderApp.dir
+G:/VTM-4.0_wMLP7_7z/build/source/App/EncoderApp/CMakeFiles/EncoderApp.dir
+G:/VTM-4.0_wMLP7_7z/build/source/App/SEIRemovalApp/CMakeFiles/SEIRemovalApp.dir
+G:/VTM-4.0_wMLP7_7z/build/source/App/Parcat/CMakeFiles/parcat.dir
